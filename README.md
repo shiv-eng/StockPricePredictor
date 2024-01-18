@@ -33,8 +33,6 @@ Access the app at http://127.0.0.1:8050/. Enter a stock symbol to see historical
 - Linear regression model for predictions.
 - Bootstrap components for styling.
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 - [Dash](https://dash.plotly.com/)
